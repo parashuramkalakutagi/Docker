@@ -1,0 +1,4 @@
+run docker use this commands in comand frompt
+
+1 docker-compose build
+2 docker-compose up
